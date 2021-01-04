@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "jsx": "preserve",
+    "outDir": "public/js",
+    "rootDir": "src",
+    "strict": true,
+    "esModuleInterop": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": [
+    "src"
+  ]
+}
